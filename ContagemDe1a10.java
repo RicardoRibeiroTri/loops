@@ -1,6 +1,6 @@
 package Loop;
 
-public class Contagem1a10 {
+public class ContagemDe1a10 {
 
 	public static void main(String[] args) {
 		
