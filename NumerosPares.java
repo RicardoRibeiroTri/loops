@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-public class NúmerosPares {
+public class NumerosPares {
 
 	public static void main(String[] args) {
 		
