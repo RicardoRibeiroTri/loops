@@ -2,7 +2,7 @@ package Loop;
 
 import java.util.Scanner;
 
-public class ParOuÍmpar {
+public class ParOuImpar {
 
 	public static void main(String[] args) {
 		
